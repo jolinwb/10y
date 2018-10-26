@@ -1,14 +1,15 @@
 
-*Windows 电脑设置教程：*
+*Windows 电脑设置教程：*  
+
 https://icando.wiki/20
 
-#Mac 苹果电脑设置教程：
+#Mac 苹果电脑设置教程：  
 https://icando.wiki/120
 
-#iphone/ipad 苹果手机平板设置教程：
+#iphone/ipad 苹果手机平板设置教程：  
 https://icando.wiki/88
 
-#Android 安卓手机设置教程：
+#Android 安卓手机设置教程：  
 https://icando.wiki/122
 
 
