@@ -1,5 +1,6 @@
 
-====Windows 电脑设置教程：==== 
+Windows 电脑设置教程：
+=
 https://icando.wiki/20
 
 #Mac 苹果电脑设置教程：  
