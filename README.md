@@ -1,4 +1,8 @@
 
+####小灰机官网最新主域名：  
+https://goodtimevip.com
+
+----
 ### Windows 电脑设置教程：  
 https://easyabc.me/20
 
@@ -13,10 +17,7 @@ https://easyabc.me/122
 
 
 ----
-小灰机官网最新主域名：  
-https://goodtimevip.com
 
-----
 
 小灰机官网备用地址一：  
 https://longtimevip.cc
