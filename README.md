@@ -8,10 +8,10 @@
 
 增加相对稳定的备用跑道，用的人过多可能会挂，为了您的权益，请不要分享。
 
-[备用线路一](https://files.catbox.moe/1kyd6q.png "用客户端扫二维码即可添加")
-[备用线路二](https://files.catbox.moe/ea7zg9.png "用客户端扫二维码即可添加")
-[备用线路三](https://files.catbox.moe/ksbp9z.png "用客户端扫二维码即可添加")
-[备用线路四](https://files.catbox.moe/gqda98.png "用客户端扫二维码即可添加")
+[备用线路一](https://files.catbox.moe/1kyd6q.png "用客户端扫二维码即可添加") | 
+[备用线路二](https://files.catbox.moe/ea7zg9.png "用客户端扫二维码即可添加") | 
+[备用线路三](https://files.catbox.moe/ksbp9z.png "用客户端扫二维码即可添加") | 
+[备用线路四](https://files.catbox.moe/gqda98.png "用客户端扫二维码即可添加") | 
 [备用线路五](https://files.catbox.moe/glwch1.png "用客户端扫二维码即可添加")
 
 使用方法：
