@@ -14,7 +14,7 @@
 
 [备用跑道1](https://files.catbox.moe/9ltbmi.png "用客户端扫二维码即可添加")  | 9.21 21:28 更新
 
-[备用跑道2](https://files.catbox.moe/tlh4bz.png "用客户端扫二维码即可添加")  | 9.21 21:28 更新
+[备用跑道2](https://files.catbox.moe/itkmsu.png "用客户端扫二维码即可添加")  | 9.21 22:15 更新
 
 [备用跑道3](https://files.catbox.moe/87y04i.png "用客户端扫二维码即可添加")  | 9.21 21:28 更新
 
