@@ -24,11 +24,11 @@
 
 [备用跑道5](https://files.catbox.moe/fppq80.png "用客户端扫二维码即可添加")  | 9.21 20:10 更新
 
-[备用跑道6](https://files.catbox.moe/qg4j02.png "用客户端扫二维码即可添)  | 9.21 20:10 更新
+[备用跑道6](https://files.catbox.moe/qg4j02.png "用客户端扫二维码即可添")  | 9.21 20:10 更新
 
-[备用跑道7](https://files.catbox.moe/wgg66q.png "用客户端扫二维码即可添)  | 9.21 20:10 更新
+[备用跑道7](https://files.catbox.moe/wgg66q.png "用客户端扫二维码即可添")  | 9.21 20:10 更新
 
-[备用跑道8](https://files.catbox.moe/eyd2eh.png "用客户端扫二维码即可添)  | 9.21 20:10 更新
+[备用跑道8](https://files.catbox.moe/eyd2eh.png "用客户端扫二维码即可添")  | 9.21 20:10 更新
 
 **备用跑道使用方法**：
 
