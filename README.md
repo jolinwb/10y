@@ -12,9 +12,9 @@
 
 【**扫新的二维码之前，请先把之前旧的备用线路删除，以免混淆**】
 
-[备用跑道1](https://files.catbox.moe/5z1n2b.png "用客户端扫二维码即可添加")  | 9.21 20:10 更新
+[备用跑道1](https://files.catbox.moe/9ltbmi.png "用客户端扫二维码即可添加")  | 9.21 21:28 更新
 
-[备用跑道2](https://files.catbox.moe/1qtww0.png "用客户端扫二维码即可添加")  | 9.21 20:10 更新
+[备用跑道2](https://files.catbox.moe/tlh4bz.png "用客户端扫二维码即可添加")  | 9.21 21:28 更新
 
 [备用跑道3](https://files.catbox.moe/87y04i.png "用客户端扫二维码即可添加")  | 9.21 21:28 更新
 
@@ -24,7 +24,7 @@
 
 [备用跑道6](https://files.catbox.moe/qg4j02.png "用客户端扫二维码即可添")  | 9.21 20:10 更新
 
-[备用跑道7](https://files.catbox.moe/wgg66q.png "用客户端扫二维码即可添")  | 9.21 20:10 更新
+[备用跑道7](https://files.catbox.moe/aafvdu.png "用客户端扫二维码即可添")  | 9.21 21:28 更新
 
 [备用跑道8](https://files.catbox.moe/eyd2eh.png "用客户端扫二维码即可添")  | 9.21 20:10 更新
 
