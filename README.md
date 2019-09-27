@@ -16,7 +16,9 @@
 以下是最新的动态更新
 -----
 
-**9.26 03:00**
+**9.28 03:00**
+
+备用跑道有更新
 
 正式服务已经暂时关闭，下月7号左右恢复，具体哪天恢复请关注此处的更新，请朋友们相互转告周知，谢谢了。
 
@@ -39,71 +41,72 @@
 
 6、此期间请务必安排好重要工作，及时告知您的客人，联系随时可能出现不可控的中断，打个招呼有备无患。
 
-PC客户端一键打包版，解压即用，无需设置
+备用跑道列表，点击链接可打开二维码
+-----
+
+[备用跑道1](https://files.catbox.moe/0nv3pp.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新          |          [备用跑道16](https://files.catbox.moe/mo9892.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新
+
+[备用跑道2](https://files.catbox.moe/ljo0ox.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新          |          [备用跑道17](https://files.catbox.moe/zfq983.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新
+
+[备用跑道3](https://files.catbox.moe/901278.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新          |          [备用跑道18](https://files.catbox.moe/dh8phk.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新
+
+[备用跑道4](https://files.catbox.moe/4p2vxb.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新          |          [备用跑道19](https://files.catbox.moe/s1gn8f.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新
+
+[备用跑道5](https://files.catbox.moe/xq44a4.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新          |          [备用跑道20](https://files.catbox.moe/1b1cpp.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新
+
+[备用跑道6](https://files.catbox.moe/kj7jah.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新          |          [备用跑道21](https://files.catbox.moe/03atg3.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新
+
+[备用跑道7](https://files.catbox.moe/n8mjvx.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新          |          [备用跑道22](https://files.catbox.moe/xcynww.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新
+
+[备用跑道8](https://files.catbox.moe/wh15fi.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新          |          [备用跑道23](https://files.catbox.moe/acfav2.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新
+
+[备用跑道9](https://files.catbox.moe/eh2s7f.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新          |          [备用跑道24](https://files.catbox.moe/l89ntw.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新
+
+[备用跑道10](https://files.catbox.moe/uu6t40.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新          |          [备用跑道25](https://files.catbox.moe/1489sf.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新
+
+[备用跑道11](https://files.catbox.moe/77bf33.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新          |          [备用跑道26](https://files.catbox.moe/jgu9f6.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新
+
+[备用跑道12](https://files.catbox.moe/13o9rb.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新          |          [备用跑道27](https://files.catbox.moe/7aoquu.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新
+
+[备用跑道13](https://files.catbox.moe/ludo3v.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新          |          [备用跑道28](https://files.catbox.moe/1wvphh.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新
+
+[备用跑道14](https://files.catbox.moe/82gddb.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新          |          [备用跑道29](https://files.catbox.moe/1y1xph.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新
+
+[备用跑道15](https://files.catbox.moe/sewk50.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新          |          [备用跑道30](https://files.catbox.moe/2ikqlc.png "用客户端扫二维码即可完成添加")  - 9.28 03:00 更新
+
+Windows 客户端一键打包版，解压即用，无需设置
 -----
 
 请注意：运行备用客户端之前，请先退出您原先的客户端，以免冲突，没有则跳过 。
 
-[WIN客户端，点我下载，更新日期9.26日 03:00 ](https://files.catbox.moe/jn3esy.7z "点击下载")
+[WIN客户端，点我下载，更新日期9.28日 03:00 ](https://files.catbox.moe/auo15g.7z "点击下载")【下载后，先解压出来，再启动】
 
 刚启动时，大家默认都是挤在一个跑道上的，容易卡顿，而其它跑道则过于空闲，因此运行软件后请切换一下跑道避免拥堵，方法：
 
 启动软件后，软件右键菜单 - 服务器 里面可切换跑道。
-
-备用跑道列表，点击链接可打开二维码
------
-
-[备用跑道1](https://files.catbox.moe/r9809k.png "用客户端扫二维码即可完成添加")  - 9.25 14:30 更新          |          [备用跑道16](https://files.catbox.moe/ahxmsz.png "用客户端扫二维码即可完成添加")  - 9.26 03:00 新增
-
-[备用跑道2](https://files.catbox.moe/zrxo7m.png "用客户端扫二维码即可完成添加")  - 9.25 14:30 更新          |          [备用跑道17](https://files.catbox.moe/jy6x2y.png "用客户端扫二维码即可完成添加")  - 9.26 03:00 新增
-
-[备用跑道3](https://files.catbox.moe/fyvz37.png "用客户端扫二维码即可完成添加")  - 9.25 14:30 更新          |          [备用跑道18](https://files.catbox.moe/6altjv.png "用客户端扫二维码即可完成添加")  - 9.26 03:00 新增
-
-[备用跑道4](https://files.catbox.moe/zbsgf9.png "用客户端扫二维码即可完成添加")  - 9.25 14:30 更新          |          [备用跑道19](https://files.catbox.moe/pwg34z.png "用客户端扫二维码即可完成添加")  - 9.26 03:00 新增
-
-[备用跑道5](https://files.catbox.moe/oluzo0.png "用客户端扫二维码即可完成添加")  - 9.25 14:30 更新          |          [备用跑道20](https://files.catbox.moe/vkf5a5.png "用客户端扫二维码即可完成添加")  - 9.26 03:00 新增
-
-[备用跑道6](https://files.catbox.moe/urldfw.png "用客户端扫二维码即可完成添加")  - 9.25 14:30 更新          |          [备用跑道21](https://files.catbox.moe/eiocad.png "用客户端扫二维码即可完成添加")  - 9.26 03:00 新增
-
-[备用跑道7](https://files.catbox.moe/m6kr4p.png "用客户端扫二维码即可完成添加")  - 9.25 14:30 更新          |          [备用跑道22](https://files.catbox.moe/129jxm.png "用客户端扫二维码即可完成添加")  - 9.26 03:00 新增
-
-[备用跑道8](https://files.catbox.moe/s2edic.png "用客户端扫二维码即可完成添加")  - 9.25 14:30 更新          |          [备用跑道23](https://files.catbox.moe/38az3t.png "用客户端扫二维码即可完成添加")  - 9.26 03:00 新增
-
-[备用跑道9](https://files.catbox.moe/xqzy68.png "用客户端扫二维码即可完成添加")  - 9.25 14:30 更新          |          [备用跑道24](https://files.catbox.moe/htj7wr.png "用客户端扫二维码即可完成添加")  - 9.26 03:00 新增
-
-[备用跑道10](https://files.catbox.moe/xs6wex.png "用客户端扫二维码即可完成添加")  - 9.25 14:30 更新          |          [备用跑道25](https://files.catbox.moe/2v3iek.png "用客户端扫二维码即可完成添加")  - 9.26 03:00 新增
-
-[备用跑道11](https://files.catbox.moe/ottl0x.png "用客户端扫二维码即可完成添加")  - 9.25 14:30 更新          |          [备用跑道26](https://files.catbox.moe/3xf5ln.png "用客户端扫二维码即可完成添加")  - 9.26 03:00 新增
-
-[备用跑道12](https://files.catbox.moe/bar43x.png "用客户端扫二维码即可完成添加")  - 9.25 14:30 更新          |          [备用跑道27](https://files.catbox.moe/p6e9rz.png "用客户端扫二维码即可完成添加")  - 9.26 03:00 新增
-
-[备用跑道13](https://files.catbox.moe/v6fuxl.png "用客户端扫二维码即可完成添加")  - 9.25 14:30 更新          |          [备用跑道28](https://files.catbox.moe/vwos0a.png "用客户端扫二维码即可完成添加")  - 9.26 03:00 新增
-
-[备用跑道14](https://files.catbox.moe/v6fuxl.png "用客户端扫二维码即可完成添加")  - 9.25 14:30 更新          |          [备用跑道29](https://files.catbox.moe/n8iijn.png "用客户端扫二维码即可完成添加")  - 9.26 03:00 新增
-
-[备用跑道15](https://files.catbox.moe/nuf9kv.png "用客户端扫二维码即可完成添加")  - 9.25 14:30 更新          |          [备用跑道30](https://files.catbox.moe/9c4xre.png "用客户端扫二维码即可完成添加")  - 9.26 03:00 新增
-
-备用跑道使用方法
------
-
-勤快的朋友可以全部扫进去，方便切换着用，嫌麻烦只需要扫五六七八九个即可。
 
 MAC电脑
 -----
 
 **MAC电脑**：点击上面的链接即可打开二维码，然后小飞机下拉菜单 - 服务器 - 从屏幕上扫描二维码
 
+勤快的朋友可以全部扫进去，方便切换着用，嫌麻烦只需要扫五六七八九个即可。
+
+
 苹果手机
 -----
 
 **苹果手机**：点击上面的链接即可打开二维码，然后 shadowrocket 里左上角按钮点一下即可进入扫码界面，扫上面的二维码即可
 
+勤快的朋友可以全部扫进去，方便切换着用，嫌麻烦只需要扫五六七八九个即可。
+
 安卓手机
 -----
 
-**安卓手机**：点击上面的链接即可打开二维码，然后 小飞机客户端左上角，三角形点进去，右下角+号，选 扫描二维码
-
 安卓手机如果使用ssr或ssrr扫码后无法使用，请安装这个客户端后再扫码即可“[点我下载](https://files.catbox.moe/tycc9p.apk "点我下载")”
 
+**安卓手机**：点击上面的链接即可打开二维码，然后 小飞机客户端左上角，三角形点进去，右下角+号，选 扫描二维码
+
+勤快的朋友可以全部扫进去，方便切换着用，嫌麻烦只需要扫五六七八九个即可。
 
 **最后，当此之时，请您坚决不要浏览任何含有敏感信息的网站**。
